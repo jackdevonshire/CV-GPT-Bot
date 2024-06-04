@@ -8,4 +8,4 @@ If you do choose to use this to try and advertise your CV, I would recommend you
 
 ### Tutorial
 
-You can find out more about how I put all of this together on my website: NOT YET ADDED
+You can find out more about how I put all of this together on (https://jackdevonshire.co.uk/portfolio-archive/gpt-cv-bot/)[My Website].
